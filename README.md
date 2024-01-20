@@ -1,3 +1,13 @@
+1) Take a Pull
+
+2) Activate VENV
+
+3) pip install -r requirements.txt
+
+4) python manage.py runserver
+
+
+ 
  CRUD APIs at the following endpoints:
 
 -List all sections: http://localhost:8000/api/sections/
